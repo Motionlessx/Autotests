@@ -1,6 +1,7 @@
 public class Square {
-    public double x;
-    public Square(double x) {
-    this.x = x;
+    public double l;
+    public Square(double l) {
+        this.l = l;
+
     }
 }
